@@ -14,19 +14,39 @@
 ### 🧰 Tech Stack
 
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin" />
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/REST_API-black?style=flat-square&logo=postman" />
+
+  <!-- Web/Backend -->
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql" />
   <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb" />
+
+  <!-- DevOps / Version Control -->
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Bitbucket-black?style=flat-square&logo=bitbucket" />
+  <img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=jira" />
+
+  <!-- Embedded -->
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=flat-square&logo=arm" />
   <img src="https://img.shields.io/badge/Modbus-blue?style=flat-square" />
+
+  <!-- Web & General -->
   <img src="https://img.shields.io/badge/Website-black?style=flat-square&logo=wordpress" />
 </p>
 
