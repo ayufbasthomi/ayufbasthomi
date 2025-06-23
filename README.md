@@ -18,12 +18,15 @@
   <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/REST_API-black?style=flat-square&logo=postman" />
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=flat-square&logo=raspberry-pi" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=flat-square&logo=arm" />
+  <img src="https://img.shields.io/badge/Modbus-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Website-black?style=flat-square&logo=wordpress" />
 </p>
 
