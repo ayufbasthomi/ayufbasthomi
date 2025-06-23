@@ -1,0 +1,14 @@
+# Force correct language detection for specific file types
+*.ino linguist-language=C++
+*.h linguist-language=C++
+*.c linguist-language=C
+*.cpp linguist-language=C++
+*.js linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+*.html linguist-language=HTML
+*.py linguist-language=Python
+*.kt linguist-language=Kotlin
+*.java linguist-language=Java
+*.md linguist-documentation
+*.json linguist-data
+*.yml linguist-data
